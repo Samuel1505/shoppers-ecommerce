@@ -30,6 +30,10 @@ const Footer = () => {
             <img src={whatsapp_icon} alt="" />
         </div>
       </div>
+      <div className="footer-copyright">
+        <hr />
+        <p>Copyright @ 2024 All right reserved.</p>
+      </div>
     
     </div>
   )
